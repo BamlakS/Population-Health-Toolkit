@@ -6,9 +6,9 @@ USE CIS_3107_01
 --	SQL Script Final Project for The Population Health.
 --	This script will drop, re-create tables and 
 --  then insert the records into the tables for the Population Health
---	Created by: Sr. Joana Charles
-                Bamlak Amedie 
-				Yohanan Bisrat 
+--	Created by: Bamlak Amedie
+		    Sr. Joana Charles 
+		    Yohanan Bisrat  
 --	Created on:  12/9/2024
 -- ==================================================================== */
 
@@ -137,9 +137,9 @@ INSERT INTO countyHospital(hosp_id, county_FIPS_ID)
 /* ====================================================================
 --  Select Script for the Population Health
 --  To be used with Reset Script above
---	Created by: Sr. Joana Charles
-                Bamlak Amedie 
-				Yohanan Bisrat 
+--	Created by: Bamlak Amedie
+		    Sr. Joana Charles 
+		    Yohanan Bisrat 
 --	Created on:  12/9/2024
 -- ==================================================================== */
 
