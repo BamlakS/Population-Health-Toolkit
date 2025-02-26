@@ -9,7 +9,7 @@ The **Population Health Toolkit** is a MySQL-based database system designed to h
 - **Efficient Data Retrieval:** Optimized SQL scripts for quick access to healthcare metrics.
 - **Decision Support:** Helps public health organizations make informed decisions based on accurate data.
 
-## Technologies Used
+## Technologies
 - **Database:** MySQL
 - **Data Processing:** Microsoft Excel (for raw data)
 - **Data Modeling:** Conceptual and logical models for structured relationships.
